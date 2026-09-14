@@ -24,13 +24,6 @@ A final-year **Computer Engineering Student** focused on **Backend Development (
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.azurewebsites.net/api?username=emadwehbeh&show_icons=true&theme=tokyonight&hide_border=true" alt="Emad's GitHub Stats" />
-</p>
-
----
 
 ### 🌐 Connect With Me
 
